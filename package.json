@@ -1,0 +1,10 @@
+{
+  "name": "github-star-stats",
+  "version": "0.1.0",
+  "description": "awesome GitHub repo star statistics generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
